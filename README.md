@@ -42,5 +42,5 @@
 
 ## 📫 Контакты
 
-* **Telegram:** [@ваш_юзернейм]
-* **Email:** ваш_email@example.com
+* **Telegram:** [@darumenchik]
+* **Email:** chiperdm@gmail.com
