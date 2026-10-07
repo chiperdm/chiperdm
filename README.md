@@ -84,4 +84,4 @@ Git, Android Studio, VS Code, Figma, Dio
 ## 📫 Контакты
 
 * **Telegram:** [@darumenchik](https://t.me/darumenchik)
-* **Email:** [chiperdm@gmail.com](mailto:chiperdm@gmail.com)
+* **Email:** [darumen@proton.me](mailto:darumen@proton.me)
